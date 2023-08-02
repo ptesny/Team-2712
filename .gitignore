@@ -3,3 +3,5 @@ assets/**/*.pdf
 assets/RISE/
 assets/SAP_S4HANA_Cloud/
 assets/SuccessFactors/
+assets/**/*.eps
+assets/spark.jpeg
