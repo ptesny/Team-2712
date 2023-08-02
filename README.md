@@ -25,3 +25,7 @@ Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This
 
 
 https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/
+
+```
+wget --no-check-certificate -S https://github.com/ptesny/Team-2712/blob/main/assets/appgyver/telldus-on-kyma.zip
+```
